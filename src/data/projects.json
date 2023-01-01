@@ -1,58 +1,74 @@
 [
   {
-    "name": "Reda",
-    "description": "The way to own your library.",
-    "url": "https://www.usereda.app",
-    "github_url": "",
+    "name": "Wiki",
+    "description": "A web search project with wikipedia api",
+    "url": "https://imarnolddcodes.github.io/Wiki/",
+    "github_url": "https://github.com/ImArnoldDCODES/Wiki.git",
     "in_progress": false,
     "status": "ACTIVE"
   },
   {
-    "name": "Hitlist",
-    "description": "A CLI tool that allows you to execute multiple commands with a single command, plus a web dashboard for easy command management on the go on any device.",
-    "url": "https://www.hitlist.dev",
-    "github_url": "https://github.com/hitlist-cli/cli",
+    "name": "Gsap-landing",
+    "description": "A gsap landing page with animations",
+    "url": "https://imarnolddcodes.github.io/gsap-ag-land/",
+    "github_url": "https://github.com/ImArnoldDCODES/gsap-ag-land.git",
     "in_progress": false,
     "status": "ACTIVE"
   },
   {
-    "name": "Stripr",
-    "description": "Remove those nasty comments you left in your code with a single command... because why not?",
+    "name": "CodeAsia",
+    "description": "A community web project for students in Asia",
     "url": "https://github.com/aosasona/stripr#readme",
-    "github_url": "https://github.com/aosasona/stripr",
-    "in_progress": false,
-    "status": "ACTIVE"
-  },
-  {
-    "name": "PHP Router",
-    "description": "A composer package that brings Express-like routing to PHP with support for middleware, class-based callbacks, dynamic routes etc and still remains subjective; you write it your way (and yes, it is a terrible name sadly).",
-    "url": "https://php-router-demo.onrender.com/",
-    "github_url": "https://github.com/aosasona/php-router",
-    "in_progress": false,
-    "status": "ACTIVE"
-  },
-  {
-    "name": "ResuMake",
-    "description": "An open-source resume builder with a simple yet functional UI to help you create a resume that stands out using any of the available templates... or you can code your own template :)",
-    "url": "",
     "github_url": "",
     "in_progress": true,
     "status": "DEVELOPMENT"
   },
   {
-    "name": "NeatHTTP",
-    "description": "An axios-like cURL wrapper for PHP that allows you to make HTTP requests with ease (experimental).",
-    "url": "",
-    "github_url": "https://github.com/aosasona/neat-http",
+    "name": "Bg-chrome",
+    "description": "A chrome extension with various wallpaper to give the vibe you want on every tab you open",
+    "url": "https://chrome.google.com/webstore/search/danielsarnold010?hl=en-US",
+    "github_url": "",
     "in_progress": false,
-    "status": "ARCHIVED"
+    "status":"ACTIVE"
   },
   {
-    "name": "Scrawny",
-    "description": "A simple console logger for Node.js (not file-system, experimental).",
+    "name": "Social-Card",
+    "description": "A all social media card generator to link in your bio",
     "url": "",
-    "github_url": "https://github.com/aosasona/Scrawny",
+    "github_url": "https://github.com/ImArnoldDCODES/Social-Card.git",
     "in_progress": false,
-    "status": "ARCHIVED"
+    "status":"ACTIVE"
+  },
+  {
+    "name": "Astro",
+    "description": "A simple react native project with firebase.",
+    "url": "",
+    "github_url": "https://github.com/ImArnoldDCODES/ASTRO..git",
+    "in_progress": false,
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Meetineer",
+    "description": "An open-source discord bot that sets meeting reminders for a server",
+    "url": "",
+    "github_url": "https://github.com/ImArnoldDCODES/MyDiscordBot.git",
+    "in_progress": true,
+    "status": "DEVELOPMENT"
+  },
+  {
+    "name": "Weather-Web",
+    "description": "An weather web project that give live weather reports.",
+    "url": "",
+    "github_url": "https://github.com/ImArnoldDCODES/Weather-Web.git",
+    "in_progress": false,
+    "status": "FIXING"
+  },
+  {
+    "name": "Link Me",
+    "description": "A chrome extension that gives quick access your socials on web",
+    "url": "https://chrome.google.com/webstore/detail/linkme/jaboelgfglcempiihgldadmcclnaakao?hl=en-US",
+    "github_url": "",
+    "in_progress": false,
+    "status": "ACTIVE"
   }
 ]
